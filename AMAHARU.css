@@ -4,7 +4,10 @@ body{
     background-image: url(img/背景.png);
     font-size : 20px;
     font-family: HG正楷書体-PRO;
-    background-size: auto;
+    background-size: auto; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+    background-position: center center;
 }
 
 h2{
@@ -35,4 +38,5 @@ h2{
 .EURO{
     width: 300px;
     height: 200px;
+    border-radius: 5px;
 }
