@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
 body{
-    background-color: aliceblue;
+    background-image: url(img/背景.png);
     font-size : 20px;
     font-family: HG正楷書体-PRO;
+    background-size: auto;
 }
 
 h2{
@@ -29,4 +30,9 @@ h2{
 
 .top{
     text-align: right;
+}
+
+.EURO{
+    width: 300px;
+    height: 200px;
 }
