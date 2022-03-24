@@ -36,7 +36,40 @@ h2{
 }
 
 .EURO{
-    width: 300px;
-    height: 200px;
+    width: 280px;
+    height: 190px;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 0 auto;
+}
+
+.CH{
+    width: 280px;
+    height: 190px;
     border-radius: 5px;
 }
+
+.EP{
+    width: 280px;
+    height: 190px;
+    border-radius: 5px;
+}
+
+.N2Y{
+    width: 280px;
+    height: 190px;
+    border-radius: 5px;
+}
+
+ul{
+    display: flex;
+   
+}
+
+li{
+    list-style: none;
+  }
+
+  li:nth-child(3) {
+    margin: 0 10px;
+  }
