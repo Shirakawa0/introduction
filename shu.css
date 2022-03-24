@@ -1,0 +1,25 @@
+body{
+    background-color: 	beige;
+}
+
+h2{
+    font-size: 25;
+    margin: auto;
+    border: 2px solid;
+    text-align: center;
+    color: 	#006600;
+}
+h3{
+    font-size: 20;
+    color: #191970;
+    
+}
+
+p{
+    color:#6927FF;
+}
+
+img{
+    width: 50%;
+    height: 60%;
+}
