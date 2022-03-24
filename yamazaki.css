@@ -1,6 +1,6 @@
 @charset "utf-8";
 body{
-    text-align: center;
+   
     background-image: url(img/スネーク_2.jpg);
     background-size: cover;
     text-shadow: 2px  2px 3px white,
@@ -16,7 +16,23 @@ h2{
 }
 h1{
     font-size: 36px;
+    text-align: center;
+    
 }
 h3{
     font-size: 20px;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+a{
+    text-align: right;
+}
+#sansen{
+    height: 140px;
+    background-image: url(img/参戦!!.gif);
+    background-repeat: no-repeat;
+    background-position:580px 20px;
+    background-size: 20%;
 }
