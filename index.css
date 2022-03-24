@@ -2,9 +2,20 @@
 
 .flex{
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;/*
+    flex-wrap: wrap;*/
     justify-content: center;
+}
+
+.longtable{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 5px solid gray;
+    border-radius: 10px;
+    background-color: white;
+    width: 80%;
+    margin: 2% auto;
 }
 
 .flex-content{
@@ -13,10 +24,9 @@
     flex-direction: column;
     text-align: center;
     margin: 2%;
-    padding: 2%;
-    border: 5px solid gray;
-    border-radius: 10px;
-    background-color: white;
+    padding: 1%;
+    border: 2px solid gray;
+    border-radius: 5px;
 }
 
 img{
@@ -26,6 +36,12 @@ img{
 
 h1{
     text-align: center;
+    width: 90%;
+    background-color: white;
+    border-radius: 5px;
+    border-bottom: 5px rgb(131, 189, 189) solid;
+    margin: 1% auto;
+    padding: 1%;
 }
 
 a{
