@@ -22,12 +22,10 @@ h1{
 h3{
     font-size: 20px;
     text-align: center;
+    
 }
 h4{
     text-align: center;
-}
-a{
-    text-align: right;
 }
 #sansen{
     height: 140px;
@@ -35,4 +33,10 @@ a{
     background-repeat: no-repeat;
     background-position:580px 20px;
     background-size: 20%;
+}
+#modoru{
+    text-align: right;
+}
+#koumoku{
+    color: brown;
 }
